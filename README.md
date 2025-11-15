@@ -13,3 +13,8 @@ Install the required package:
 
 ```bash
 pip install instaloader
+
+
+#Usage
+
+Run the downloader script:
